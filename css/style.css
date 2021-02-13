@@ -1,0 +1,123 @@
+html {
+    margin: 0;
+    font-family: 'Roboto', sans-serif;
+    color: #444;
+}
+
+.nav{
+    width: auto;
+    background-color: white;
+    height: 30px;
+}
+.nav-item{
+    list-style-type: none;
+    display: inline;
+    position: relative;
+    left: 1100px;
+    margin-left: 10px;
+
+}
+.nav-link {
+    text-decoration: none;
+    color: #444;
+    font-size: .9em;
+}
+.profile-pic {
+    width: 40px;
+    border-radius: 50px;
+    position: relative;
+    top: 10px;
+    left: 5px;
+}
+.content {
+
+    text-align: center;
+}
+
+.sch-box {
+    width: 500px;
+    height: 40px;
+    border-radius: 25px;
+    border: 0.5px rgb(219, 214, 214) solid;
+  
+}
+
+
+.btn-center{
+    border: none;
+    padding: 10px;
+    background-color: white;
+    margin: 15px;
+    border-radius: 5px;
+}
+.btn-center:hover{
+    border: 0.5px rgb(219, 214, 214) solid;
+    cursor: pointer;
+}
+
+.btn-center-txt{
+    color: #444;
+    text-decoration: none;
+    font-size: 1.1em;
+}
+.location{
+    position: relative;
+    top: 250px;
+    margin-left: 50px;
+}
+.line-sep {
+    position: relative;
+    top: 250px;
+}
+.ft-left{
+    
+    position: fixed;
+    top: 600px;
+}
+.ft-left-item{
+    
+    list-style-type: none;
+    display: inline;
+    position: relative;
+    margin-left: 30px;
+}
+
+.ft-left-link {
+    text-decoration: none;
+    color: #444;
+    font-size: .9em;
+}
+
+.ft-right{
+    
+    position: fixed;
+    top: 600px;
+    right: 70px;
+}
+
+.ft-right-item{
+    
+    list-style-type: none;
+    display: inline;
+    position: relative;
+    margin-left: 30px;
+}
+
+.ft-right-link {
+    text-decoration: none;
+    color: #444;
+    font-size: .9em;
+}
+
+.sch-icon{
+    position: relative;
+    top: 75px;
+    right: 230px;
+}
+
+.mic-icon-sch{
+    width: 15px;
+    position: relative;
+    top: 40px;
+    left: 230px;
+}
