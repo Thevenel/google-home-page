@@ -37,6 +37,7 @@ html {
 .sch-box {
     width: 500px;
     height: 40px;
+    padding-left: 70px;
     border-radius: 25px;
     border: 0.5px rgb(219, 214, 214) solid;
   
